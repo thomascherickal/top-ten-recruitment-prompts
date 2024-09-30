@@ -17,9 +17,9 @@ Prompts for the 100x Recruiter with LLM article:
 * It is not uncommon for candidates to take job descriptions and create fictitious resumes using ChatGPT.
 * For such a detailed description, be suspicious of every score above 80% and double-check in the interview.
 
-  ### 4. Review this resume for a [Job Role] candidate. Identify any gaps in their employment history or skills. Highlight potential red flags in their experience or qualifications. Suggest specific areas to explore during the interview to clarify these issues. [Add any other red flags your company's policies specify.]
-  * This is self-explanatory, and the interviewer will thank you for it.
-  * Do this for every resume, and you are well on your way to becoming a 100x recruiter.
+### 4. Review this resume for a [Job Role] candidate. Identify any gaps in their employment history or skills. Highlight potential red flags in their experience or qualifications. Suggest specific areas to explore during the interview to clarify these issues. [Add any other red flags your company's policies specify.]
+* This is self-explanatory, and the interviewer will thank you for it.
+* Do this for every resume, and you are well on your way to becoming a 100x recruiter.
  
 ### 5. Provide a template for giving constructive feedback to a candidate who wasn't selected for a [Job Title] position.
 * This shows humanity and genuine concern for everyone who appies.
