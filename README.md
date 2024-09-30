@@ -4,10 +4,10 @@ Prompts for the 100x Recruiter with LLM article:
 ### 1. "Create a job description for the [Job Role] in the [Job Sector]. [Copy-Paste the requirements document given to you]"
 * This creates an appealing and catchy job description that you can immediately place on LinkedIn.
 * Make sure that you are using Claude Sonnet 3.5.
-* Finally get your interviewer to do a quick review of the generated post. (important).
+* Finally get your interviewer to do a quick review of the generated post (important).
 
 ### 2. "Generate a list of interview questions for a [Job Role] candidate, focusing on [required domain of expertise]."
-* Again, this can be a huge help the your interviewer.
+* Again, this can be a huge help to the interviewer.
 * LLMs can hallucinate, so not every question might be accurate.
 * Make sure all questions are double-checked by an expert.
 
